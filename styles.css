@@ -25,16 +25,16 @@ h3 {
   text-align: center;
   color: rgb(199, 72, 72);
   font-family: monospace;
-  font-size: 50px;
 }
 
 #content {
   color: black;
   width: 100%;
   margin: auto;
-  padding: 30px;
+  padding-top: 7px;
+  padding-bottom: 10px;
   text-align: center;
-  font-size: 25px;
+  font-size: 22px;
   font-family: monospace;
   background-color: rgb(119, 107, 107);
 }
@@ -60,6 +60,11 @@ h3 {
   }
   #content {
     width: 60%;
+    font-size: 25px;
+  }
+  h2,
+  h3 {
+    font-size: 50px;
   }
   .nav {
     font-size: 32px;
