@@ -1,6 +1,6 @@
 # [archived] How to change your Google password
 
-this project has been migrated to [kevinnls/passch](//github.com/kevinnls/passch)\
+this project has been migrated to [kevinnls/passch](//github.com/kevinnls/passch)
 
 <!--
 # How to change your Google password
