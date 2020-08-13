@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: black;
+  background-color: rgb(32, 24, 24);
   color: white;
 }
 
@@ -23,14 +23,20 @@ li {
 h2,
 h3 {
   text-align: center;
+  color: rgb(199, 72, 72);
+  font-family: monospace;
+  font-size: 50px;
 }
 
 #content {
   color: black;
   width: 100%;
   margin: auto;
-  padding: 15px 0px 15px 0px;
-  background-color: white;
+  padding: 30px;
+  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgb(119, 107, 107);
 }
 
 #navbar {
